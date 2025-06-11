@@ -61,7 +61,7 @@ const Skills: React.FC = () => {
         </div>
         
         <div className="mt-16 bg-gradient-to-r from-teal-600 to-blue-600 text-white rounded-lg p-8 shadow-md">
-          <h3 className="text-2xl font-semibold mb-4">My Approach to Quality Assurance</h3>
+          <h3 className="text-2xl font-semibold mb-4">My Approach to Quality Assurance & Coordination</h3>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
             <div>
               <h4 className="text-xl font-medium mb-3">Testing Philosophy</h4>

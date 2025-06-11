@@ -123,7 +123,7 @@ export const personalInfo = {
   education: {
     degree: 'BS Computer Science',
     institution: 'National College of Business Administration & Economics (NCBA&E), Main Campus',
-    cgpa: '3.24',
+    cgpa: '3.24 / 4.00',
     duration: 'November 2021 – February 2025 '
   },
   bio: 'A passionate and detail-oriented Software Quality Assurance Engineer and Project Coordinator with hands-on experience in Agile environments. I aim to grow my career by contributing to high-impact projects, enhancing product quality, and driving team collaboration. Seeking a challenging opportunity where I can apply my QA expertise and coordination skills to deliver exceptional software solutions.'

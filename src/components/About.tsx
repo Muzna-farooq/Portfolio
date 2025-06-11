@@ -24,8 +24,8 @@ const About: React.FC = () => {
               </div>
               <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Experience</h3>
             </div>
-            <p className="text-gray-700 dark:text-gray-300">
-Quality Assurance Professional and Project Coordinator with hands-on experience in manual testing, Agile methodologies, and cross-functional team coordination. Familiar with Selenium automation, SQL queries, and basic coding concepts. Proficient in using tools like Jira and Confluence for efficient test management and project tracking.   </p>
+                      <p className="text-gray-700 dark:text-gray-300">
+          Quality Assurance Professional and Project Coordinator with hands-on experience in manual testing, Agile methodologies, and cross-functional team coordination. Familiar with Selenium automation, SQL queries, and basic coding concepts. Proficient in using tools like Jira and Confluence for efficient test management and project tracking.   </p>
           </div>
           
           <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-6 shadow-md transition-transform duration-300 hover:-translate-y-2">
@@ -70,28 +70,32 @@ Quality Assurance Professional and Project Coordinator with hands-on experience 
         
         <div className="mt-16 bg-gray-50 dark:bg-gray-800 rounded-lg p-8 shadow-md">
   <h3 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
-    My Journey
-  </h3>
-  <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-    I am a <strong>detail-oriented Software Quality Assurance Engineer</strong> and 
-    <strong> Project Coordinator</strong> with hands-on experience working in 
-    <strong> Agile environments</strong>. My professional journey has equipped me with 
-    expertise in <strong>manual testing</strong>, <strong>bug tracking</strong>, and 
-    <strong> team coordination</strong>.
-  </p>
-  <p className="text-gray-700 dark:text-gray-300 leading-relaxed mt-4">
-    With experience at companies like <strong>Lambda Logics</strong>, 
-    <strong> Terminus Technologies</strong>, and <strong>ZIMO Group</strong>, I've had the 
-    opportunity to work on diverse projects and develop a comprehensive skill set that 
-    encompasses both <strong>technical testing abilities</strong> and 
-    <strong> project management competencies</strong>.
-  </p>
-  <p className="text-gray-700 dark:text-gray-300 leading-relaxed mt-4">
-    I'm particularly proficient in <strong>localization testing</strong> across 
-    <strong> multiple languages</strong>, <strong>XML invoice validation</strong>, and 
-    implementing <strong>Agile methodologies</strong> to enhance team productivity and 
-    product quality.
-  </p>
+  My Journey
+</h3>
+      <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
+        I am a <span className="text-teal-600">detail-oriented Software Quality Assurance Engineer</span> and 
+        <span className="text-teal-600"> Project Coordinator</span> with hands-on experience working in 
+        <span className="text-teal-600"> Agile environments</span>. My professional journey has equipped me with 
+        expertise in <span className="text-teal-600">manual testing</span>, <span className="text-teal-600">bug tracking</span>, and 
+        <span className="text-teal-600"> team coordination</span>.
+      </p>
+
+      <p className="text-gray-700 dark:text-gray-300 leading-relaxed mt-4">
+        With experience at companies like <span className="text-teal-600">Lambda Logics</span>, 
+        <span className="text-teal-600"> Terminus Technologies</span>, and <span className="text-teal-600">ZIMO Group</span>, I've had the 
+        opportunity to work on diverse projects and develop a comprehensive skill set that 
+        encompasses both <span className="text-teal-600">technical testing abilities</span> and 
+        <span className="text-teal-600"> project management competencies</span>.
+      </p>
+
+      <p className="text-gray-700 dark:text-gray-300 leading-relaxed mt-4">
+        I'm particularly proficient in <span className="text-teal-600">localization testing</span> across 
+        <span className="text-teal-600"> multiple languages</span>, <span className="text-teal-600">XML invoice validation</span>, and 
+        implementing <span className="text-teal-600">Agile methodologies</span> to enhance team productivity and 
+        product quality.
+      </p>
+
+
       </div>
       </div>
     </section>
