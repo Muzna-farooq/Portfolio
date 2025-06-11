@@ -25,9 +25,7 @@ const About: React.FC = () => {
               <h3 className="text-xl font-semibold text-gray-900 dark:text-white">Experience</h3>
             </div>
             <p className="text-gray-700 dark:text-gray-300">
-              Quality Assurance Professional with experience across multiple companies, 
-              specializing in manual testing, Agile methodologies, and project coordination.
-            </p>
+Quality Assurance Professional and Project Coordinator with hands-on experience in manual testing, Agile methodologies, and cross-functional team coordination. Familiar with Selenium automation, SQL queries, and basic coding concepts. Proficient in using tools like Jira and Confluence for efficient test management and project tracking.   </p>
           </div>
           
           <div className="bg-gray-50 dark:bg-gray-800 rounded-lg p-6 shadow-md transition-transform duration-300 hover:-translate-y-2">
@@ -71,25 +69,30 @@ const About: React.FC = () => {
         </div>
         
         <div className="mt-16 bg-gray-50 dark:bg-gray-800 rounded-lg p-8 shadow-md">
-          <h3 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
-            My Journey
-          </h3>
-          <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
-            I am a detail-oriented Software Quality Assurance Engineer and Project Coordinator with 
-            hands-on experience working in Agile environments. My professional journey has equipped me 
-            with expertise in manual testing, bug tracking, and team coordination.
-          </p>
-          <p className="text-gray-700 dark:text-gray-300 leading-relaxed mt-4">
-            With experience at companies like Lambda Logics, Terminus Technologies, and ZIMO Group,
-            I've had the opportunity to work on diverse projects and develop a comprehensive skill set
-            that encompasses both technical testing abilities and project management competencies.
-          </p>
-          <p className="text-gray-700 dark:text-gray-300 leading-relaxed mt-4">
-            I'm particularly proficient in localization testing across multiple languages, 
-            XML invoice validation, and implementing Agile methodologies to enhance team productivity 
-            and product quality.
-          </p>
-        </div>
+  <h3 className="text-2xl font-semibold text-gray-900 dark:text-white mb-4">
+    My Journey
+  </h3>
+  <p className="text-gray-700 dark:text-gray-300 leading-relaxed">
+    I am a <strong>detail-oriented Software Quality Assurance Engineer</strong> and 
+    <strong> Project Coordinator</strong> with hands-on experience working in 
+    <strong> Agile environments</strong>. My professional journey has equipped me with 
+    expertise in <strong>manual testing</strong>, <strong>bug tracking</strong>, and 
+    <strong> team coordination</strong>.
+  </p>
+  <p className="text-gray-700 dark:text-gray-300 leading-relaxed mt-4">
+    With experience at companies like <strong>Lambda Logics</strong>, 
+    <strong> Terminus Technologies</strong>, and <strong>ZIMO Group</strong>, I've had the 
+    opportunity to work on diverse projects and develop a comprehensive skill set that 
+    encompasses both <strong>technical testing abilities</strong> and 
+    <strong> project management competencies</strong>.
+  </p>
+  <p className="text-gray-700 dark:text-gray-300 leading-relaxed mt-4">
+    I'm particularly proficient in <strong>localization testing</strong> across 
+    <strong> multiple languages</strong>, <strong>XML invoice validation</strong>, and 
+    implementing <strong>Agile methodologies</strong> to enhance team productivity and 
+    product quality.
+  </p>
+      </div>
       </div>
     </section>
   );

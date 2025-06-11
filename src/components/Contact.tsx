@@ -131,7 +131,7 @@ const Contact: React.FC = () => {
                     type="text" 
                     id="name" 
                     className="w-full px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-teal-500 dark:focus:ring-teal-400 transition-colors duration-200"
-                    placeholder="John Doe"
+                    placeholder="Name"
                     value={formData.name}
                     onChange={handleChange}
                     required
@@ -161,7 +161,7 @@ const Contact: React.FC = () => {
                   type="text" 
                   id="subject" 
                   className="w-full px-4 py-2 rounded-lg border border-gray-300 dark:border-gray-700 bg-white dark:bg-gray-700 text-gray-900 dark:text-white focus:outline-none focus:ring-2 focus:ring-teal-500 dark:focus:ring-teal-400 transition-colors duration-200"
-                  placeholder="Job Opportunity"
+                  placeholder="Subject"
                   value={formData.subject}
                   onChange={handleChange}
                   required
